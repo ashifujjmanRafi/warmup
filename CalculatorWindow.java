@@ -7,7 +7,7 @@ import java.awt.event.*;
 public class CalculatorWindow extends Frame{
 	
 	private TextField tf;
-	private Panel p1;
+	private Panel p1;askdnskandkljdlljkdL
 	private Panel p2;
 	private Button b[] = new Button[16];
 
